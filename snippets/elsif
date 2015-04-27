@@ -1,0 +1,11 @@
+#!/bin/bash
+#This filee was created on 25/04/15
+if [[ ]]
+	then
+		echo "true"
+elif [[ ]]
+	then
+		echo "also true"
+else
+	echo "false"
+fi
